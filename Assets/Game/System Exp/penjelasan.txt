@@ -1,0 +1,10 @@
+Variable :
+Level = level player
+PointExp = Point Exp yang didapatkan player
+CurrentExp = Expt player saat ini
+LevelUp = level * (2 * 5 * (1 + level / 4))
+
+Contoh
+level = 1
+1 * (2 * 5 * (1 + 1/ 4))
+maka untuk naik ke level dua perlu = 12.5 PointExp
