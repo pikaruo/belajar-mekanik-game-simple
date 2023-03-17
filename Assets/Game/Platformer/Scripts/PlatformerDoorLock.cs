@@ -5,8 +5,9 @@ using UnityEngine;
 public class PlatformerDoorLock : MonoBehaviour
 {
 
+    [Header("Platformer Door Lock Object")]
     public GameObject wall;
-
+    [Header("Platformer Door Lock Variable")]
     private float locationObjective;
 
     private void Start()

@@ -1,0 +1,2 @@
+Pemain memiliki tas, tas memiliki slot, slot dapat diisi object
+Object dapat diambil pemain,
